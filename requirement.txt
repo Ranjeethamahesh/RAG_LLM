@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+huggingface-hub
+pdfplumber
+pdf2image
+pytesseract
+Pillow
+tqdm
+unstructured
+pypdf
+python-docx
+llama-cpp-python
